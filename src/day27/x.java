@@ -23,6 +23,8 @@ public class x {
             System.out.println();
             }
 
+        System.out.println("I love java");
+
 
     }
 }
